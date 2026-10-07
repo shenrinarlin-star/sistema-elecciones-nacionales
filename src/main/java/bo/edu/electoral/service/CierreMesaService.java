@@ -19,9 +19,7 @@ import java.util.LinkedHashMap;
 import java.util.List;
 import java.util.Map;
 
-/**
- * Consolida las papeletas de una mesa en su acta oficial y bloquea nuevos votos.
- */
+
 public class CierreMesaService {
 
     private final ActaDAO actaDAO = new ActaDAO();
