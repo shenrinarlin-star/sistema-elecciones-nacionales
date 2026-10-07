@@ -3,7 +3,7 @@ package bo.edu.electoral.service;
 import bo.edu.electoral.model.Mesa;
 
 /**
- * Valida la consistencia entre el acta, las papeletas, el padrón y los inscritos.
+ SIIII Valida la consistencia entre el acta, las papeletas, el padrón y los inscritos.
  */
 public class ValidadorActaService {
 
